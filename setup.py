@@ -129,7 +129,7 @@ setup(
     version=version,
     description="A large compression model for weather and climate data.",
     url="https://github.com/taohan10200/CRA5",
-    py_modules=['cra5'],
+#    py_modules=['cra5'],
     author="HAN Tao",
     author_email="hantao10200@gmail.com",
     packages=find_packages(exclude=("tests",)),
